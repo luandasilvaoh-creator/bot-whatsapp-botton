@@ -44,18 +44,7 @@ Meu agradecimento especial a todos os parceiros, desenvolvedores e apoiadores qu
 
 Este bot foi personalizado, adaptado e evoluído por:
 
-Leo – MultSolutions
-Especialista em automações, sistemas WhatsApp, integrações e soluções digitais.
-
-A MultSolutions atua criando:
-
-Bots inteligentes para WhatsApp
-
-Automação de processos
-
-Sistemas personalizados
-
-Integrações entre plataformas
+@Leo_multSolutions
 
 Soluções escaláveis para negócios
 
