@@ -1,7 +1,7 @@
 {
-  "name": "whatsapp-bot-buttons-lists",
+  "name": "bot-whatsapp-botton",
   "version": "1.0.0",
-  "description": "Bot WhatsApp que envia listas e botões usando whaileys",
+  "description": "Bot WhatsApp com botões, listas e automações usando Baileys/Whaileys",
   "main": "dist/index.js",
   "scripts": {
     "build": "tsc",
@@ -12,10 +12,13 @@
   "keywords": [
     "whatsapp",
     "bot",
+    "baileys",
     "whaileys",
-    "baileys"
+    "automation",
+    "whatsapp-bot",
+    "nodejs"
   ],
-  "author": "",
+  "author": "Luan Silva <luandasilvaoh@gmail.com>",
   "license": "MIT",
   "dependencies": {
     "@google/generative-ai": "^0.21.0",
